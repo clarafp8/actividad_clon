@@ -1,1 +1,1 @@
-Holaa editando para subir con clave GPG
+Holaa editando este archivo de texto para subirlo firmando con la clave GPG usando -S y luego -m al hacer el commit
